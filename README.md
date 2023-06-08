@@ -5,23 +5,36 @@
 [![@purukhedre's Holopin board](https://holopin.me/purukhedre)](https://holopin.io/@purukhedre)
 
 ## Projects
-### ToDo app(https://github.com/puru-khedre/todo-app):
-- this is a fullstack project build using MERN stack,
-- implement authentication with JWT
 
-### Chat application(http://github.com/puru-khedre/chatApp):
-- built using NodeJS, express, mongoDB in back-end side and pure html, css, js without any framework,
-- use socket.io to handle continuous communication,
-- Also embed a multiplayer tic-tac-toe game
+### [ToDo app](https://github.com/puru-khedre/todo-app):
+- Full-stack project built using the MERN stack.
+- Implements authentication with JWT for secure user management.
 
-### LinkedIn clone(http://github.com/puru-khedre/linkedin-clone):
-- this is s clone of the linkedIn with basic features like authentication and make a post containing text and media elements,
-- Techs used: NextJS, tailwindCSS
+### [Chat application](http://github.com/puru-khedre/chatApp):
+- Built using Node.js, Express, and MongoDB on the back-end.
+- Utilizes pure HTML, CSS, and JavaScript for the front-end without any frameworks.
+- Handles continuous communication in a two-way channel using Socket.IO.
+- Includes a multiplayer tic-tac-toe game.
 
-### Simple CRUD app(http://github.com/puru-khedre/prisma-typescript-backend):
-- It is a very simple CRUD application, written in typescript,
-- also i built its docker image
+### [LinkedIn clone](http://github.com/puru-khedre/linkedin-clone):
+- Clone of LinkedIn with basic features.
+- Developed using Next.js and tailwindCSS.
+- Implements authentication.
+- Allows users to create posts containing text and media elements.
 
+### [PSP remote controller](https://github.com/puru-khedre/psp-remote-controller):
+- Integrated real-time communication via WebSocket for seamless gameplay,
+- Implemented responsive interface using HTML, CSS, and Javascript,
+- Developed web-based PSP game controller with haptic feedback for the PPSSPP emulator running inside a computer,
+
+### [Simple CRUD app](http://github.com/puru-khedre/prisma-typescript-backend):
+- A simple CRUD application written in TypeScript.
+- Includes Docker image for easy deployment.
+
+### [PSP remote controller](https://github.com/puru-khedre/psp-remote-controller):
+- Integrates real-time communication via WebSocket for seamless gameplay.
+- Implements a responsive interface using HTML, CSS, and JavaScript.
+- Develops a web-based PSP game controller with haptic feedback for the PPSSPP emulator running inside a computer.
 
 <!--
 **puru-khedre/puru-khedre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
