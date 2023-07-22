@@ -10,10 +10,13 @@
   font-family: "Montserrat", sans-serif;
 }
 body {
-  /* padding: 30px; */
   margin: auto;
-  /* width: 700px; */
-  /* border-inline: 1px solid var(--color); */
+}
+
+.production-body {
+  padding: 30px;
+  max-width: 750px;
+  border-inline: 1px solid var(--color);
 }
 
 .introduction > * {
@@ -76,6 +79,7 @@ a {
 .margin {
   margin-top: 10px;
 }
+
 .style-border::after {
   content: "";
   background-color: var(--color);
@@ -94,7 +98,7 @@ li {
   margin-block: 3px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
   .socials > div {
     flex-direction: column;
     align-items: center;
@@ -102,5 +106,10 @@ li {
   }
   .middle {
     grid-template-columns: unset;
+  }
+  .production-body {
+    padding: 15px;
+    width: 100%;
+    border: none;
   }
 }
