@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+:root {
+  --color: rgb(139, 60, 241);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  /* padding: 30px; */
+  margin: auto;
+  /* width: 700px; */
+  /* border-inline: 1px solid var(--color); */
+}
+
+.introduction > * {
+  display: inline-block;
+}
+
+.role {
+  color: var(--color);
+}
+
+.socials {
+  margin-block: 7px 10px;
+}
+.socials > div {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-block: 5px;
+}
+
+.link > img {
+  width: 18px;
+}
+.link span {
+  font-size: 18px;
+  color: var(--color);
+}
+
+.projects h3:last-child {
+  text-decoration: underline;
+  text-decoration-color: var(--color);
+}
+
+a {
+  text-decoration: none;
+  color: var(--color);
+}
+
+.link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 14px;
+  gap: 5px;
+  text-align: center;
+}
+
+.middle {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.style-border {
+  color: var(--color);
+  position: relative;
+  border-bottom: 1px solid var(--color);
+}
+
+.margin {
+  margin-top: 10px;
+}
+.style-border::after {
+  content: "";
+  background-color: var(--color);
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 10px;
+  bottom: -3px;
+  right: 0%;
+}
+.middle > div > div {
+  margin-block: 10px;
+}
+
+li {
+  margin-block: 3px;
+}
+
+@media (max-width: 450px) {
+  .socials > div {
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+  }
+  .middle {
+    grid-template-columns: unset;
+  }
+}
