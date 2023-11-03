@@ -1,6 +1,6 @@
 ---
 title: "October 5, 2023 [rustlings]"
-datePublished: Thu Oct 05 2023 13:20:36 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Oct 29 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clnd7gpfv000609kxahiy5210
 slug: october-5-2023-rustlings
 
