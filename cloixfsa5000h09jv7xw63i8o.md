@@ -5,7 +5,8 @@ seoDescription: "Airbyte and Lowcode CDK are changing the future of data integra
 datePublished: Thu Nov 02 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cloixfsa5000h09jv7xw63i8o
 slug: the-future-of-airbyte-connector-development-my-thoughts-on-low-code-cdk
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1699116744949/c8a097ac-e304-4b63-a2d1-510b092bfe15.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699251213811/547dbddd-1bec-48b8-bfeb-66c11064887a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1699251246059/cb856121-cbd7-427f-aff0-40d84f1bff43.png
 tags: airbyte, airbytehackathon
 
 ---
