@@ -6,6 +6,12 @@
 
 ## Projects
 
+### [Chat application (securathon project)](https://github.com/puru-khedre/securathon-project):
+- Built using **Node.js, Express, and MongoDB** on the back-end & **ReactJS** on the front-end
+- Handles continuous communication in a two-way channel using **Socket.IO**.
+- In this projects chats are end-to-end encrypted
+- Also have functionality to extract external URL and domain, and abillity to detect malicius and fraud links
+
 ### [ToDo app](https://github.com/puru-khedre/todo-app):
 - Full-stack project built using the **MERN** stack.
 - Implements authentication with **JWT** for secure user management.
